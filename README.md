@@ -13,3 +13,13 @@
 * git add (nomedoarquivo, --all) - adiciona os arquivos para serem comitados
 * git commit -m "mensagemdocommit" - documenta com uma mensagem a alteração que foi feita
 * git push - joga o codigo pro github (remote)
+
+// tipos
+// conversao de tipos
+// operadores
+// comparacoes
+// interacao
+// condicionais
+// operadores logicos
+// estrutura de repeticao
+// funcoes
